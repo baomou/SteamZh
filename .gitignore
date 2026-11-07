@@ -1,0 +1,17 @@
+# 编译产物
+/out/
+/dist/
+
+# 打包产物（内嵌 JRE，约 150MB）——用 GitHub Releases 分发，不要提交
+/app/
+
+# 编辑器配置
+/.vscode/
+
+# 用户设置（每台机器不同）
+config.properties
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
